@@ -1,11 +1,11 @@
 @font-face {
   font-family: futurista;
-  src: url('fonts/PLANK___.TTF') format('truetype');
+  src: url('PLANK___.TTF') format('truetype');
 }
 
 @font-face {
   font-family: desenhada;
-  src: url('fonts/edosz.ttf') format('truetype');
+  src: url('edosz.ttf') format('truetype');
 }
 
 @keyframes orbitarSombras {
